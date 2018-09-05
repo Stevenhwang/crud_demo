@@ -1,7 +1,7 @@
 package main
 
 import (
-	"awesomeProject/router"
+	"crud_demo/router"
 )
 
 func main() {

@@ -1,7 +1,7 @@
 package controllers
 
 import (
-	"awesomeProject/models"
+	"crud_demo/models"
 	"github.com/labstack/echo"
 	"net/http"
 	"strconv"

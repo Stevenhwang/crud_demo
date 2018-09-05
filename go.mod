@@ -1,4 +1,4 @@
-module awesomeProject
+module crud_demo
 
 require (
 	cloud.google.com/go v0.26.0 // indirect

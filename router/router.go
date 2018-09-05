@@ -1,7 +1,7 @@
 package router
 
 import (
-	"awesomeProject/controllers"
+	"crud_demo/controllers"
 	"github.com/labstack/echo"
 	"github.com/labstack/echo/middleware"
 )
